@@ -25,7 +25,7 @@ const features = [
 
 export default function FeatureDiagram() {
   return (
-    <section className="md:px-12 py-10 bg-[#FFFDEA] text-[#4E2E1D]">
+    <section className="md:px-12 md:py-8 py-10 bg-[#FFFDEA] text-[#4E2E1D]">
       <h2 className="text-3xl md:text-4xl font-semibold mb-2 text-center">
   Why <span style={{ fontFamily: "'Instrument Serif', serif", letterSpacing: "-0.09em", fontWeight:"400"}} className="italic text-[#000000]">Auralink</span>
 </h2>
