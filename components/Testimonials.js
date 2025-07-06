@@ -46,7 +46,7 @@ export default function Testimonials() {
   Trusted by <span style={{ fontFamily: "'Instrument Serif', serif", letterSpacing: "-0.09em", fontWeight:"400"}} className="italic text-[#000000]">Thousands</span>
 </h2>
       <p className="text-md md:text-lg mb-12">
-        How Auralink works, its smart features, and why it's different.
+        How Auralink works, its smart features, and why it is different.
       </p>
 
       <div className="grid gap-6 md:grid-cols-3">

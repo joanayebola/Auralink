@@ -11,7 +11,7 @@ export default function DemoSection() {
 
 
       <p className="text-md md:text-lg max-w-xl mx-auto mb-10">
-        How Auralink works, its smart features, and why it's different.
+        How Auralink works, its smart features, and why it is different.
       </p>
 
       <div className="relative max-w-4xl mx-auto rounded-3xl overflow-hidden shadow-md">
