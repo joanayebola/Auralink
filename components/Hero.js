@@ -25,7 +25,7 @@ export default function Hero() {
           Introducing Auralink – the AI-powered, ultra-light, next-gen hearing device that adapts to your world in real-time.
         </p>
 
-        <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
+        <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto mb-6">
   <Link href="/get-started" className="w-full sm:w-auto">
     <button className="w-full sm:w-auto bg-[#4E2E1D] text-white px-6 py-3 rounded-full hover:opacity-90 transition">
       Get started
