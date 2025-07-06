@@ -25,10 +25,13 @@ const features = [
 
 export default function FeatureDiagram() {
   return (
-    <section className="md:px-12 py-16 bg-[#FFFDEA] text-[#4E2E1D]">
-      <h2 className="text-center text-lg md:text-xl max-w-3xl mx-auto mb-12 text-balance">
+    <section className="md:px-12 py-10 bg-[#FFFDEA] text-[#4E2E1D]">
+      <h2 className="text-3xl md:text-4xl font-semibold mb-2 text-center">
+  Why <span style={{ fontFamily: "'Instrument Serif', serif", letterSpacing: "-0.09em", fontWeight:"400"}} className="italic text-[#000000]">Auralink</span>
+</h2>
+      <h3 className="text-center text-lg md:text-xl max-w-3xl mx-auto mb-12 text-balance">
         Designed with precision, powered by AI, and built for real life. Auralink delivers an unmatched hearing experience.
-      </h2>
+      </h3>
 
       <div className="relative max-w-6xl mx-auto aspect-[16/9] hidden md:block">
         <Image
